@@ -17,9 +17,27 @@ h2 {
     font-variant: small-caps;
     color: azure;
     background-color: rgb(243, 206, 160);
+    padding: 10px;   
+    margin: 5px;
 }
 
 img {
     height: auto;
     width: 500px;
+    padding-left: 10px;
+}
+
+.steps > li {
+    padding: 10px;
+    border: 1px solid black;
+}
+
+.description {
+    padding: 10px;
+    font-size: 25px;
+    font-weight: 400;
+}
+
+.ingredients > li {
+    margin: -3px;
 }
